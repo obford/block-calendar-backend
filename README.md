@@ -88,7 +88,6 @@ This is a working first version of the backend. It’s tested using Postman and 
 
 ## 🙋‍♂️ Author
 
-**Your Name Here**  
 [@obford](https://github.com/obford)
 
 ---
